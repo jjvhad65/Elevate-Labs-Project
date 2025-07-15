@@ -1,0 +1,10 @@
+Log Analysis Report - 2025-06-25 19:20:31
+
+Suspicious Apache IPs (More than 10 errors):
+185.191.171.17 => 11 suspicious requests (Washington, District of Columbia, United States) ⚠️ Blacklisted
+
+SSH Failed Login Attempts (5 or more):
+37.44.238.88 => 5 failed attempts (Paris, Ile-de-France, France) 
+
+SSH Invalid User Attempts:
+185.191.171.17 => 1 invalid user attempts (Washington, District of Columbia, United States) ⚠️ Blacklisted
